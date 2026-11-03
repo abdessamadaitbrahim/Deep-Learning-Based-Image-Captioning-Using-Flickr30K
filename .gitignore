@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Environments
+env/
+venv/
+.venv/
+pyvenv.cfg
+# User uploads
+static/uploads/*
+!static/uploads/.gitkeep
+# Caches / OS / IDE
+.cache/
+.huggingface/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+
+# models are too large to be stored in git
+models/*.h5
+models/*.keras
+models/*.pkl
+
+data/*
+!data/README.md
+
+*.pkl
+features*.pkl
