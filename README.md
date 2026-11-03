@@ -199,7 +199,7 @@ image-captioning-flickr30k/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/image-captioning-flickr30k.git
+git clone https://github.com/<your-username>/Deep-Learning-Based-Image-Captioning-Using-Flickr30K.git
 cd image-captioning-flickr30k
 ```
 
@@ -320,9 +320,8 @@ Potential extensions include:
 ## References
 
 1. Vaswani et al. — [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
-2. Li et al. — *BLIP: Bootstrapping Language-Image Pre-training*.
-3. Keras — [Image Captioning with Visual Attention](https://keras.io/examples/vision/image_captioning/).
-4. Flickr30k — [Dataset on Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr30k).
+1. Keras — [Image Captioning with Visual Attention](https://keras.io/examples/vision/image_captioning/).
+2. Flickr30k — [Dataset on Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr30k).
 
 ---
 
