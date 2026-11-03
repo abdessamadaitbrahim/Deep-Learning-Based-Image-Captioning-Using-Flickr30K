@@ -11,7 +11,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.2-000000?logo=flask&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/BLIP-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 *Machine Learning Project — Big Data & Artificial Intelligence*  
 *ENSA Tétouan | Academic Year 2024–2025*
@@ -291,7 +290,7 @@ The notebooks document the training workflow for the CNN-based models:
 - Loss function: Categorical cross-entropy.
 - Optimizer: Adam.
 
-**Notebook scope:** `02_vgg_lstm.ipynb` is the original VGG-based prototype, developed with VGG16 and Flickr8k. The deployed VGG19-LSTM model follows the same general approach but uses Flickr30k.
+**Notebook scope:** `02_vgg_lstm.ipynb` is the original VGG-based prototype, developed with VGG19 and Flickr8k. The deployed VGG19-LSTM model follows the same general approach but uses Flickr30k.
 
 The InceptionV3-Transformer notebook is not included in the repository; its experimental results are documented in the project report.
 
